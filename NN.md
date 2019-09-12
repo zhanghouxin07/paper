@@ -7,3 +7,5 @@
 7. SVM考虑几何间隔。
 8. Logistic规划为概率版sigmod，而不是sign符号函数。
 9. OneHot Ecoding （离散型特征）模型才是正常的。
+
+第三章 神经网络入门
