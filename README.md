@@ -1,2 +1,2 @@
 # record
-hello everyone, I want utilze Github to record my brain.
+hello everyone, I want utilize Github to record my brain.
